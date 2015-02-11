@@ -1,0 +1,17 @@
+c:\users\paquin\documents\visual studio 2013\Projects\multiview\multiview\bin\multiview.dll.config
+c:\users\paquin\documents\visual studio 2013\Projects\multiview\multiview\bin\multiview.dll
+c:\users\paquin\documents\visual studio 2013\Projects\multiview\multiview\bin\multiview.pdb
+c:\users\paquin\documents\visual studio 2013\Projects\multiview\multiview\obj\Debug\multiview.dll
+c:\users\paquin\documents\visual studio 2013\Projects\multiview\multiview\obj\Debug\multiview.pdb
+C:\Users\Paquin\Documents\Visual Studio 2013\Projects\multiview\multiview\obj\Debug\multiview.csprojResolveAssemblyReference.cache
+C:\Users\Paquin\Dropbox\SEMESTRE 7\PROGRAMACION WEB\PRACTICAS-LAB\multiview\multiview\bin\multiview.dll.config
+C:\Users\Paquin\Dropbox\SEMESTRE 7\PROGRAMACION WEB\PRACTICAS-LAB\multiview\multiview\bin\multiview.dll
+C:\Users\Paquin\Dropbox\SEMESTRE 7\PROGRAMACION WEB\PRACTICAS-LAB\multiview\multiview\bin\multiview.pdb
+C:\Users\Paquin\Dropbox\SEMESTRE 7\PROGRAMACION WEB\PRACTICAS-LAB\multiview\multiview\obj\Debug\multiview.csprojResolveAssemblyReference.cache
+C:\Users\Paquin\Dropbox\SEMESTRE 7\PROGRAMACION WEB\PRACTICAS-LAB\multiview\multiview\obj\Debug\multiview.dll
+C:\Users\Paquin\Dropbox\SEMESTRE 7\PROGRAMACION WEB\PRACTICAS-LAB\multiview\multiview\obj\Debug\multiview.pdb
+C:\Users\Paquin\Desktop\repositorio de prueba\prueba\multiview\multiview\bin\multiview.dll
+C:\Users\Paquin\Desktop\repositorio de prueba\prueba\multiview\multiview\bin\multiview.pdb
+C:\Users\Paquin\Desktop\repositorio de prueba\prueba\multiview\multiview\obj\Debug\multiview.csprojResolveAssemblyReference.cache
+C:\Users\Paquin\Desktop\repositorio de prueba\prueba\multiview\multiview\obj\Debug\multiview.dll
+C:\Users\Paquin\Desktop\repositorio de prueba\prueba\multiview\multiview\obj\Debug\multiview.pdb
